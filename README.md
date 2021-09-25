@@ -1,6 +1,4 @@
-# group_registration_server
-
-# YACV Registration Tasks List
+# group_registration_server: Tasks List
 
 - [ ] Google-based APIs
   - [ ] Google Groups
